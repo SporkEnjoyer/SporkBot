@@ -4,6 +4,7 @@
   "author": "Autumn Williams",
   "serverID": "",
   "clientID": "",
+  "VersionID": "Version 0.4.1 DEBUG_GIT_COMMIT_FINAL",
   "colors": {
     "default": "606C65",
     "error": "FF4500"

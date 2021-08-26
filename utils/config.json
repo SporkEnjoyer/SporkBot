@@ -1,10 +1,10 @@
 {
-  "token": "",
+  "token": "ODc4NTE2MjIxNzE1MzA4NTU1.YSCT_Q.ptwyGG0GiPY0JsapDd5pNwCjVCE",
   "prefix": "s!",
   "author": "Autumn Williams",
   "serverID": "",
   "clientID": "",
-  "VersionID": "Version 0.4.1 DEBUG_GIT_COMMIT_FINAL",
+  "VersionID": "Version 0.5 DEBUG_GIT_COMMIT_FINAL_8-26-21",
   "colors": {
     "default": "606C65",
     "error": "FF4500"

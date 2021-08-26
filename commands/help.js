@@ -6,6 +6,7 @@ module.exports = {
 	args: false,
 	usage: '',
 	execute:(message, args, client) => {
-		message.channel.send('``spork``make spork appear');
+		message.reply('``Spork:`` send a picture of a spork ``FunnySpork:`` all hail bendy spork ``Speak:`` ask the all knowing overlord about something')
+		
 	},
 };

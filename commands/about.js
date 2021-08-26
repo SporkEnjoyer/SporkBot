@@ -6,6 +6,7 @@ module.exports = {
 	args: false,
 	usage: '',
 	execute:(message, args, client) => {
-		message.reply('i guess i work now, lets go -Autumn');
+		
+		message.reply('Spork bot was developed by Autumn Williams, 2021 ' + client.config.VersionID);
 	},
 }

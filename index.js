@@ -6,7 +6,7 @@ const client = new Discord.Client({
 });
 
 client.on('ready', () => {
-	client.user.setActivity('i may actually work now', { type: 'PLAYING' });
+	client.user.setActivity('with myself (s!)', { type: 'PLAYING' });
 });
 
 const config = require(`./utils/config.json`)

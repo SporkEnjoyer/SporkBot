@@ -10,7 +10,7 @@ module.exports = {
 			return Math.floor(Math.random() * max);
 		  }
 		  const fs = require('fs')
-		  const spork = './sporks/' + (getRandomInt(8));
+		  const spork = './sporks/' + (getRandomInt(9));
 		  const sporkimage = spork + '.jpg'
 		  var megaspork = getRandomInt(420)
 		  if (megaspork === 1) {

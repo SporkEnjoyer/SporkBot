@@ -13,6 +13,10 @@ module.exports = {
 		  var brain = getRandomInt(5)
 		  console.log('im thinking about a' + brain)
 		  console.log(args[0])
+		  if (args[0] === 'spork') {
+			  message.channel.send('spork')
+			  var brain = 'spork'
+		  }
 		  if (args[0] === undefined) {
 			  message.reply('what you talkin bout?')
 			  var brain = 485

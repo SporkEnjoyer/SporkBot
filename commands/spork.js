@@ -10,9 +10,9 @@ module.exports = {
 			return Math.floor(Math.random() * max);
 		  }
 		  const fs = require('fs')
-		  const spork = './sporks/' + (getRandomInt(9));
+		  const spork = './sporks/' + (getRandomInt(11));
 		  const sporkimage = spork + '.jpg'
-		  var megaspork = getRandomInt(420)
+		  var megaspork = getRandomInt(42)
 		  if (megaspork === 1) {
 			  message.channel.send({
 				  files:['./sporks/ultramegaspork.jpg']

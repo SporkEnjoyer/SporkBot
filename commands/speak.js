@@ -10,7 +10,7 @@ module.exports = {
 			return Math.floor(Math.random() * max);
 		  }
 		  var urmom = getRandomInt(69)
-		  var brain = getRandomInt(5)
+		  var brain = getRandomInt(6)
 		  console.log('im thinking about a' + brain)
 		  console.log(args[0])
 		  if (args[0] === 'spork') {
@@ -50,7 +50,7 @@ module.exports = {
 		}else if (brain === 4) {
 			message.channel.send('Hell yeah')
 		}else if (brain === 5) {
-			message.channel.send('HAiL y EA s brOTHeR')
+			message.channel.send('Definitely yes, fuck you')
 		}
 		
 

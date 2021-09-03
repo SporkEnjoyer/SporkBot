@@ -6,7 +6,7 @@ module.exports = {
 	args: false,
 	usage: '',
 	execute:(message, args, client) => {
-		message.reply('``Spork:`` send a picture of a spork ``FunnySpork:`` all hail bendy spork ``Speak:`` ask the all knowing overlord about something')
+		message.reply('test succeed2``Spork:`` send a picture of a spork ``FunnySpork:`` all hail bendy spork ``Speak:`` ask the all knowing overlord about something ``about:`` Displays version number and author info')
 		
 	},
 };
